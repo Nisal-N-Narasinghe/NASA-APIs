@@ -33,7 +33,7 @@ app.set("trust proxy", true);
 // app.use("/api", limiter);
 
 //limitation of body size to prevent DOS(Denial of Service) attack
-// app.use(express.json({ limit: "10kb" }));
+app.use(express.json({ limit: "10kb" }));
 
 //Data sanitization against NoSQL query injection
 app.use(sanitize());
