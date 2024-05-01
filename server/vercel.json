@@ -4,7 +4,7 @@
   "routes": [
     { "handle": "filesystem" },
     {
-      "src": "/.*",
+      "src": "./app.js",
       "dest": "/app.js"
     }
   ]
