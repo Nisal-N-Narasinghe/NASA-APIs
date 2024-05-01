@@ -25,7 +25,7 @@ const Login = () => {
 
     try {
       const response = await axios.post(
-        "http://127.0.0.1:5000/api/v1/auth/login",
+        "https://nasa-apis-server.vercel.app/api/v1/auth/login",
         formData
       );
 
