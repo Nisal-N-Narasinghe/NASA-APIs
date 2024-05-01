@@ -7,8 +7,7 @@
     "dev": "SET NODE_ENV=development& nodemon server.js",
     "start_prod": "SET NODE_ENV=production& nodemon server.js",
     "test": "jest --watchAll",
-    "testOne": "jest /tests/roomController.test.js",
-    "build": "SET NODE_ENV=production& nodemon server.js"
+    "testOne": "jest /tests/roomController.test.js"
   },
   "keywords": [],
   "author": "",
