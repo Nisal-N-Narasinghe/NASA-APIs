@@ -22,6 +22,8 @@ app.use(cors());
 //as a good practice, at the top we should use helmet to secure our app
 app.use(helmet());
 
+app.set("trust proxy", true);
+
 const limiter = rateLimit({
   windowMs: 60 * 60 * 1000,
   max: 100,
