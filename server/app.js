@@ -24,16 +24,16 @@ app.use(helmet());
 
 app.set("trust proxy", true);
 
-// const limiter = rateLimit({
-//   windowMs: 60 * 60 * 1000,
-//   max: 100,
-//   message: "Too many requests from this IP, please try again in 1 hour!",
-// });
+const limiter = rateLimit({
+  windowMs: 60 * 60 * 1000,
+  max: 100,
+  message: "Too many requests from this IP, please try again in 1 hour!",
+});
 
-// app.use("/api", limiter);
+app.use("/api", limiter);
 
 //limitation of body size to prevent DOS(Denial of Service) attack
-app.use(express.json({ limit: "1000kb" }));
+app.use(express.json({ limit: "10kb" }));
 
 //Data sanitization against NoSQL query injection
 app.use(sanitize());
