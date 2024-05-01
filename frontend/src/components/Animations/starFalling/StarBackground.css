@@ -1,0 +1,40 @@
+/* components/Star.css */
+.star1 {
+  position: fixed;
+  overflow: hidden;
+  width: 2px;
+  height: 2px;
+  background-color: #ffffff;
+  animation: star-fall1 linear infinite;
+  -webkit-animation: star-fall1 linear infinite;
+}
+.star2 {
+  position: fixed;
+  overflow: hidden;
+  width: 2px;
+  height: 2px;
+  background-color: #ffffff;
+  animation: star-fall2 linear infinite;
+  -webkit-animation: star-fall2 linear infinite;
+}
+
+@keyframes star-fall1 {
+  0% {
+    transform: translateY(-100vh);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(100vh);
+    opacity: 1;
+  }
+}
+@keyframes star-fall2 {
+  0% {
+    transform: translateY(-100vh);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(100vh);
+    opacity: 1;
+  }
+}

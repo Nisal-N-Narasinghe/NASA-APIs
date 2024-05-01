@@ -1,0 +1,441 @@
+2024-03-23T00:59:24.168Z - CRITICAL: An error occurred during a critical operation: Error: Please provide email and password
+2024-03-23T00:59:24.170Z - CRITICAL: Error: Please provide email and password
+2024-03-23T01:01:04.697Z - CRITICAL: An error occurred during a critical operation: Error: Please provide email and password
+2024-03-23T01:01:04.697Z - CRITICAL: Error: Please provide email and password
+2024-03-23T15:37:39.890Z - CRITICAL: Error: Invalid email or password
+2024-03-23T15:56:46.934Z - CRITICAL: Error: Can't find /api/v1/enrollments/ on the server!
+2024-03-23T15:57:05.392Z - CRITICAL: Error: You do not have permission to perform this action
+2024-03-23T15:57:47.169Z - CRITICAL: Error: Invalid email or password
+2024-03-23T15:58:29.359Z - CRITICAL: Error: Course with that ID is not found!
+2024-03-23T15:59:13.287Z - CRITICAL: Error: Course with that ID is not found!
+2024-03-23T15:59:26.262Z - CRITICAL: Error: Course with that ID is not found!
+2024-03-23T15:59:54.465Z - CRITICAL: Error: Course with that ID is not found!
+2024-03-23T16:05:23.364Z - CRITICAL: Error: You are already enrolled in this course!
+2024-03-23T16:09:46.310Z - CRITICAL: Error: You are already enrolled in this course!
+2024-03-23T16:12:09.445Z - CRITICAL: Error: You do not have permission to perform this action
+2024-03-23T16:13:14.314Z - CRITICAL: Error: Can't find /api/v1/enrollments/admin/getAll on the server!
+2024-03-23T16:13:32.740Z - CRITICAL: Error: You do not have permission to perform this action
+2024-03-23T16:20:27.416Z - CRITICAL: Error: You do not have permission to perform this action
+2024-03-23T16:43:36.252Z - CRITICAL: Error: Unexpected end of JSON input
+2024-03-23T16:44:04.067Z - CRITICAL: Error: You have already dropped this course!
+2024-03-23T16:45:18.814Z - CRITICAL: Error: You are not enrolled in this course!
+2024-03-23T16:48:30.064Z - CRITICAL: Error: Student is not enrolled in this course!
+2024-03-23T17:02:28.756Z - CRITICAL: Error: Please provide student and course ID
+2024-03-23T17:15:43.464Z - CRITICAL: Error: Some students are already enrolled in this course!
+2024-03-23T17:18:29.656Z - CRITICAL: Error: Some students are already enrolled in this course!
+2024-03-23T17:18:36.961Z - CRITICAL: Error: Some students are already enrolled in this course!
+2024-03-23T17:18:45.130Z - CRITICAL: Error: Some students are not valid!
+2024-03-23T17:18:53.740Z - CRITICAL: Error: Some students are already enrolled in this course!
+2024-03-23T17:19:52.980Z - CRITICAL: Error: Some students are already enrolled in this course!
+2024-03-23T17:20:01.605Z - CRITICAL: Error: Some students are already enrolled in this course!
+2024-03-23T19:38:03.607Z - CRITICAL: Error: User validation failed: name: Enter a valid faculty name from :- Computing,Engineering,Business
+2024-03-23T19:38:28.615Z - CRITICAL: Error: E11000 duplicate key error collection: library-app.users index: email_1 dup key: { email: "computing@gmail.com" }
+2024-03-23T19:38:36.997Z - CRITICAL: Error: E11000 duplicate key error collection: library-app.users index: name_1 dup key: { name: "Computing" }
+2024-03-23T19:57:43.339Z - CRITICAL: Error: User validation failed: name: Enter a valid faculty name from :- Computing,Engineering,Business
+2024-03-23T20:19:51.833Z - CRITICAL: Error: Some students are already enrolled in this course!
+2024-03-23T20:29:42.282Z - CRITICAL: Error: User with the token does not exist
+2024-03-23T20:30:05.790Z - CRITICAL: Error: Invalid email or password
+2024-03-23T20:30:20.898Z - CRITICAL: Error: Invalid email or password
+2024-03-23T20:31:00.243Z - CRITICAL: Error: There is no user with that email address
+2024-03-23T20:31:20.962Z - CRITICAL: Error: There is no user with that email address
+2024-03-23T20:33:08.815Z - CRITICAL: Error: There is no user with that email address
+2024-03-23T20:33:43.717Z - CRITICAL: Error: Invalid email or password
+2024-03-23T20:34:16.519Z - CRITICAL: Error: Invalid email or password
+2024-03-23T20:34:52.221Z - CRITICAL: Error: Invalid email or password
+2024-03-23T20:34:53.880Z - CRITICAL: Error: Invalid email or password
+2024-03-23T20:35:15.046Z - CRITICAL: Error: Invalid email or password
+2024-03-23T20:35:44.625Z - CRITICAL: Error: E11000 duplicate key error collection: timeTable-app.users index: courses_1 dup key: { courses: undefined }
+2024-03-23T20:37:45.200Z - CRITICAL: Error: Invalid email or password
+2024-03-23T21:14:08.155Z - CRITICAL: Error: Resource validation failed: resourceName: Please enter resource name
+2024-03-23T21:15:23.017Z - CRITICAL: Error: You do not have permission to perform this action
+2024-03-23T21:15:52.000Z - CRITICAL: Error: You do not have permission to perform this action
+2024-03-23T21:30:40.163Z - CRITICAL: Error: Session validation failed: startAt: Cast to date failed for value "09:00" (type string) at path "startAt", endAt: Cast to date failed for value "12.00" (type string) at path "endAt"
+2024-03-23T21:32:15.994Z - CRITICAL: Error: Session validation failed: startAt: Cast to date failed for value "Invalid Date" (type Date) at path "startAt", endAt: Cast to date failed for value "Invalid Date" (type Date) at path "endAt"
+2024-03-23T21:33:06.631Z - CRITICAL: Error: Invalid date format
+2024-03-23T21:35:12.227Z - CRITICAL: Error: Invalid date format
+2024-03-23T21:35:43.045Z - CRITICAL: Error: Invalid date format
+2024-03-23T21:37:04.663Z - CRITICAL: Error: Invalid date format
+2024-03-23T21:42:04.110Z - CRITICAL: Error: Room is already booked
+2024-03-23T21:42:18.507Z - CRITICAL: Error: Start time must be less than end time
+2024-03-23T21:42:28.303Z - CRITICAL: Error: Start time must be less than end time
+2024-03-23T21:42:53.802Z - CRITICAL: Error: Room is already booked
+2024-03-23T22:10:09.428Z - CRITICAL: Error: Room is already booked
+2024-03-23T22:15:41.782Z - CRITICAL: Error: Cannot access 'session' before initialization
+2024-03-23T22:18:33.713Z - CRITICAL: Error: Room not found
+2024-03-23T22:21:39.613Z - CRITICAL: Error: Room is already booked
+2024-03-23T22:25:01.950Z - CRITICAL: Error: Room is already booked
+2024-03-23T22:25:29.751Z - CRITICAL: Error: Room is already booked
+2024-03-23T22:26:13.831Z - CRITICAL: Error: Resource is already booked
+2024-03-23T22:26:40.240Z - CRITICAL: Error: Resource is already booked
+2024-03-23T22:26:47.352Z - CRITICAL: Error: Resource is already booked
+2024-03-24T04:54:15.032Z - CRITICAL: Error: Session validation failed: sessionType: Please enter session type
+2024-03-24T04:58:52.472Z - CRITICAL: Error: Room is not available
+2024-03-24T05:01:58.281Z - CRITICAL: Error: undefined
+2024-03-24T05:01:58.282Z - CRITICAL: Error: next is not a function
+2024-03-24T05:02:59.368Z - CRITICAL: Error: undefined
+2024-03-24T05:02:59.368Z - CRITICAL: Error: next is not a function
+2024-03-24T05:08:59.209Z - CRITICAL: Error: undefined
+2024-03-24T05:08:59.210Z - CRITICAL: Error: Cannot read properties of undefined (reading 'status')
+2024-03-24T05:11:11.105Z - CRITICAL: Error: Internal Server Error
+2024-03-24T05:11:11.105Z - CRITICAL: Error: Cannot read properties of undefined (reading 'status')
+2024-03-24T05:14:02.665Z - CRITICAL: Error: Internal Server Error
+2024-03-24T05:14:02.665Z - CRITICAL: Error: Cannot read properties of undefined (reading 'status')
+2024-03-24T05:14:18.351Z - CRITICAL: Error: undefined
+2024-03-24T05:14:18.352Z - CRITICAL: Error: Cannot read properties of undefined (reading 'status')
+2024-03-24T05:15:19.220Z - CRITICAL: Error: undefined
+2024-03-24T05:15:19.221Z - CRITICAL: Error: Cannot read properties of undefined (reading 'status')
+2024-03-24T05:15:42.177Z - CRITICAL: Error: undefined
+2024-03-24T05:15:42.178Z - CRITICAL: Error: Cannot read properties of undefined (reading 'status')
+2024-03-24T05:15:52.711Z - CRITICAL: Error: Can't find /api/v1/sessions/s4/ on the server!
+2024-03-24T05:38:52.810Z - CRITICAL: Error: You are not logged in! Please log in
+2024-03-24T05:39:06.874Z - CRITICAL: Error: You are not logged in! Please log in
+2024-03-24T05:39:10.323Z - CRITICAL: Error: You are not logged in! Please log in
+2024-03-24T05:40:37.121Z - CRITICAL: Error: Cast to date failed for value "Invalid Date" (type Date) at path "startAt" for model "Session"
+2024-03-24T05:43:02.037Z - CRITICAL: Error: Cast to date failed for value "Invalid Date" (type Date) at path "startAt" for model "Session"
+2024-03-24T05:43:05.325Z - CRITICAL: Error: Cast to date failed for value "Invalid Date" (type Date) at path "startAt" for model "Session"
+2024-03-24T05:44:27.641Z - CRITICAL: Error: Room is already booked
+2024-03-24T05:45:34.931Z - CRITICAL: Error: Notification is not defined
+2024-03-24T05:46:34.460Z - CRITICAL: Error: Room is already booked
+2024-03-24T06:07:37.847Z - CRITICAL: Error: Validation failed: endAt: Please enter end time, startAt: Please enter start time, sessionDate: Please enter session date
+2024-03-24T06:28:02.506Z - CRITICAL: Error: Room is already booked
+2024-03-24T06:29:53.506Z - CRITICAL: Error: Room is already booked
+2024-03-24T06:30:01.021Z - CRITICAL: Error: Room is already booked
+2024-03-24T06:38:42.089Z - CRITICAL: Error: Room is already booked
+2024-03-24T06:38:49.794Z - CRITICAL: Error: Room is already booked
+2024-03-24T06:47:28.629Z - CRITICAL: Error: Room is already booked
+2024-03-24T09:08:43.545Z - CRITICAL: Error: TimeTable already exists
+2024-03-24T09:19:56.352Z - CRITICAL: Error: Cast to date failed for value "Invalid Date" (type Date) at path "startAt" for model "Session"
+2024-03-24T09:20:40.391Z - CRITICAL: Error: Room is already booked
+2024-03-24T09:39:58.714Z - CRITICAL: Error: req.body.map is not a function
+2024-03-24T09:40:49.028Z - CRITICAL: Error: Cannot read properties of undefined (reading 'length')
+2024-03-24T09:40:53.266Z - CRITICAL: Error: Cannot read properties of undefined (reading 'length')
+2024-03-24T09:42:28.971Z - CRITICAL: Error: Some sessions not found
+2024-03-24T09:49:22.531Z - CRITICAL: Error: TimeTable already exists
+2024-03-24T09:55:55.737Z - CRITICAL: Error: Timetable validation failed: timetablename: Please enter timetable name
+2024-03-24T09:57:26.721Z - CRITICAL: Error: Parameter "arr.0" to insertMany() must be an object, got "Computing" (type string)
+2024-03-24T09:59:15.582Z - CRITICAL: Error: Timetable validation failed: timetablename: Please enter timetable name
+2024-03-24T10:23:55.854Z - CRITICAL: Error: Cast to ObjectId failed for value "student" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:25:12.018Z - CRITICAL: Error: Cast to ObjectId failed for value "student" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:25:27.399Z - CRITICAL: Error: Cast to ObjectId failed for value "student" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:25:45.544Z - CRITICAL: Error: Cast to ObjectId failed for value "studentsss" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:26:26.219Z - CRITICAL: Error: Cast to ObjectId failed for value "studentss" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:26:31.050Z - CRITICAL: Error: Cast to ObjectId failed for value "studentss" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:27:05.330Z - CRITICAL: Error: Cast to ObjectId failed for value "getTimetableByName" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:28:41.696Z - CRITICAL: Error: No timeTable found
+2024-03-24T10:30:11.573Z - CRITICAL: Error: Cast to ObjectId failed for value "getTimetableByName" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:31:37.395Z - CRITICAL: Error: Cast to ObjectId failed for value "getTimetableByName" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:32:11.649Z - CRITICAL: Error: Cast to ObjectId failed for value "getTimetableByName" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:32:17.731Z - CRITICAL: Error: Cast to ObjectId failed for value "getTimetableByName" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:32:19.942Z - CRITICAL: Error: Cast to ObjectId failed for value "getTimetableByName" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:34:15.524Z - CRITICAL: Error: Cast to ObjectId failed for value "getTimetableByName" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:34:16.844Z - CRITICAL: Error: Cast to ObjectId failed for value "getTimetableByName" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:34:17.917Z - CRITICAL: Error: Cast to ObjectId failed for value "getTimetableByName" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:35:28.743Z - CRITICAL: Error: Cast to ObjectId failed for value "myTimetables" (type string) at path "_id" for model "Timetable"
+2024-03-24T10:36:59.468Z - CRITICAL: Error: Can't find /api/v1/timetables/user/myTimetables on the server!
+2024-03-24T10:37:09.198Z - CRITICAL: Error: You do not have permission to perform this action
+2024-03-24T10:37:10.343Z - CRITICAL: Error: You do not have permission to perform this action
+2024-03-24T10:37:11.799Z - CRITICAL: Error: You do not have permission to perform this action
+2024-03-24T11:32:26.444Z - CRITICAL: Error: There was an error sending the reschedule email. Try again later!
+2024-03-24T11:41:32.485Z - CRITICAL: Error: There was an error sending the reschedule email. Try again later!
+2024-03-24T11:49:52.973Z - CRITICAL: Error: There was an error sending the cancel email. Try again later!
+2024-03-24T11:51:28.345Z - CRITICAL: Error: There was an error sending the cancel email. Try again later!
+2024-03-24T11:52:36.547Z - CRITICAL: Error: There was an error sending the reschedule email. Try again later!
+2024-03-24T11:53:56.144Z - CRITICAL: Error: There was an error sending the reschedule email. Try again later!
+2024-03-24T11:54:43.107Z - CRITICAL: Error: There was an error sending the cancel email. Try again later!
+2024-03-24T12:00:07.920Z - CRITICAL: Error: There was an error sending the cancel email. Try again later!
+2024-03-24T12:00:31.895Z - CRITICAL: Error: Room is already booked
+2024-03-24T12:00:53.997Z - CRITICAL: Error: Room is already booked
+2024-03-24T12:01:30.189Z - CRITICAL: Error: There was an error sending the reschedule email. Try again later!
+2024-03-24T12:03:16.085Z - CRITICAL: Error: There was an error sending the cancel email. Try again later!
+2024-03-24T12:04:24.837Z - CRITICAL: Error: There was an error sending the cancel email. Try again later!
+2024-03-24T12:07:28.734Z - CRITICAL: Error: There was an error sending the cancel email. Try again later!
+2024-03-24T12:08:59.401Z - CRITICAL: Error: There was an error sending the cancel email. Try again later!
+2024-03-24T12:11:48.640Z - CRITICAL: Error: There was an error sending the reschedule email. Try again later!
+2024-03-24T12:12:09.941Z - CRITICAL: Error: Room is already booked
+2024-03-24T12:12:32.526Z - CRITICAL: Error: There was an error sending the reschedule email. Try again later!
+2024-03-24T12:12:48.083Z - CRITICAL: Error: There was an error sending the cancel email. Try again later!
+2024-03-24T12:14:49.311Z - CRITICAL: Error: There was an error sending the cancel email. Try again later!
+2024-03-24T12:18:23.589Z - CRITICAL: Error: There was an error sending the cancel email. Try again later!
+2024-03-24T12:21:01.499Z - CRITICAL: Error: There was an error sending the reschedule email. Try again later!
+2024-03-24T14:39:31.496Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:39:36.469Z - CRITICAL: Error: Can't find /resources/66003b28f04c7e11914256e7 on the server!
+2024-03-24T14:39:41.469Z - CRITICAL: Error: Can't find /resources/123 on the server!
+2024-03-24T14:39:46.660Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:41:54.826Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:42:04.825Z - CRITICAL: Error: Can't find /resources/66003bbc958f020aebb4280f on the server!
+2024-03-24T14:42:09.842Z - CRITICAL: Error: Can't find /resources/123 on the server!
+2024-03-24T14:42:15.055Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:42:59.932Z - CRITICAL: Error: Can't find /resources/66003bf3d400951ed68b21d7 on the server!
+2024-03-24T14:42:59.951Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:43:04.906Z - CRITICAL: Error: Can't find /resources/123 on the server!
+2024-03-24T14:43:09.996Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:46:16.501Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:46:16.533Z - CRITICAL: Error: Can't find /resources/66003cb81e9d5c7126f97da2 on the server!
+2024-03-24T14:46:21.557Z - CRITICAL: Error: Can't find /resources/123 on the server!
+2024-03-24T14:46:26.887Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:48:16.460Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:48:26.438Z - CRITICAL: Error: Can't find /resources/66003d3ae1a0e0dd02268e53 on the server!
+2024-03-24T14:48:36.447Z - CRITICAL: Error: Can't find /resources/123 on the server!
+2024-03-24T14:48:46.651Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:53:50.471Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:54:00.445Z - CRITICAL: Error: Can't find /resources/66003e88a1970c426a7b615f on the server!
+2024-03-24T14:54:10.564Z - CRITICAL: Error: Can't find /resources/123 on the server!
+2024-03-24T14:54:20.792Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:55:13.694Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T14:55:23.627Z - CRITICAL: Error: Can't find /resources/66003edb6119d1f728c487ee on the server!
+2024-03-24T14:55:33.832Z - CRITICAL: Error: Can't find /resources/123 on the server!
+2024-03-24T14:55:43.850Z - CRITICAL: Error: Can't find /resources on the server!
+2024-03-24T17:53:27.899Z - CRITICAL: Error: Invalid email or password
+2024-03-24T17:53:41.478Z - CRITICAL: Error: Invalid email or password
+2024-04-19T03:38:41.263Z - CRITICAL: Error: User with the token does not exist
+2024-04-19T03:38:56.918Z - CRITICAL: Error: E11000 duplicate key error collection: NASA-app.users index: name_1 dup key: { name: "admin" }
+2024-04-20T09:06:52.402Z - CRITICAL: Error: E11000 duplicate key error collection: NASA-app.users index: name_1 dup key: { name: "admin" }
+2024-04-20T09:07:30.889Z - CRITICAL: Error: Can't find /api/v1/auth/signup on the server!
+2024-04-20T09:07:31.133Z - CRITICAL: Error: Can't find /favicon.ico on the server!
+2024-04-20T09:14:57.918Z - CRITICAL: Error: User validation failed: name: Please enter your name
+2024-04-20T09:15:26.394Z - CRITICAL: Error: User validation failed: name: Please enter your name
+2024-04-20T09:16:59.766Z - CRITICAL: Error: User validation failed: name: Please enter your name
+2024-04-20T09:19:52.455Z - CRITICAL: Error: E11000 duplicate key error collection: NASA-app.users index: courses_1 dup key: { courses: null }
+2024-04-20T09:20:11.973Z - CRITICAL: Error: E11000 duplicate key error collection: NASA-app.users index: courses_1 dup key: { courses: null }
+2024-04-20T09:20:26.343Z - CRITICAL: Error: E11000 duplicate key error collection: NASA-app.users index: courses_1 dup key: { courses: null }
+2024-04-20T10:03:00.850Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Nisals Nirmitha Narasinghe" }
+2024-04-20T10:03:18.377Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Nisal Nirmitha Narasinghe" }
+2024-04-20T10:06:56.205Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Nisal Nirmitha Narasinghe" }
+2024-04-20T10:07:20.513Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Nisal Nirmitha Narasinghe" }
+2024-04-20T10:52:17.953Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: email_1 dup key: { email: "nisal.nn2444@gmail.com" }
+2024-04-20T11:00:26.954Z - CRITICAL: Error: User validation failed: password: Path `password` (`123456`) is shorter than the minimum allowed length (8)., confirmPassword: Path `confirmPassword` (`123456`) is shorter than the minimum allowed length (8).
+2024-04-20T11:15:41.636Z - CRITICAL: Error: Invalid email or password
+2024-04-20T11:15:44.737Z - CRITICAL: Error: Invalid email or password
+2024-04-20T11:15:45.304Z - CRITICAL: Error: Invalid email or password
+2024-04-20T11:15:46.238Z - CRITICAL: Error: Invalid email or password
+2024-04-20T11:15:46.816Z - CRITICAL: Error: Invalid email or password
+2024-04-20T11:15:48.305Z - CRITICAL: Error: Invalid email or password
+2024-04-20T11:15:49.043Z - CRITICAL: Error: Invalid email or password
+2024-04-20T11:21:05.484Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Nisal Nirmitha" }
+2024-04-20T12:42:22.815Z - CRITICAL: Invalid Email Or Password While Login: Error: Please provide email and password
+2024-04-20T12:42:22.816Z - CRITICAL: Error: Please provide email and password
+2024-04-21T02:07:16.168Z - CRITICAL: Error: Invalid email or password
+2024-04-21T02:07:25.387Z - CRITICAL: Error: Invalid email or password
+2024-04-21T02:08:45.236Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:08:52.165Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:14:34.998Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:15:06.077Z - CRITICAL: Error: Invalid email or password
+2024-04-21T02:16:21.357Z - CRITICAL: Error: User validation failed: password: Path `password` (`444`) is shorter than the minimum allowed length (8)., confirmPassword: Path `confirmPassword` (`444`) is shorter than the minimum allowed length (8).
+2024-04-21T02:16:32.265Z - CRITICAL: Error: User validation failed: password: Path `password` (`4441111`) is shorter than the minimum allowed length (8)., confirmPassword: Path `confirmPassword` (`4441111`) is shorter than the minimum allowed length (8).
+2024-04-21T02:16:55.096Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:16:57.630Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:19:56.761Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:24:21.706Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:24:23.442Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:24:35.095Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:25:51.909Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: email_1 dup key: { email: "nisal.nn24@gmail.com" }
+2024-04-21T02:26:26.107Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: email_1 dup key: { email: "nisal.nn24@gmail.com" }
+2024-04-21T02:26:28.396Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: email_1 dup key: { email: "nisal.nn24@gmail.com" }
+2024-04-21T02:26:40.906Z - CRITICAL: Error: User validation failed: confirmPassword: Password & confirm Password does not match
+2024-04-21T02:27:04.572Z - CRITICAL: Error: User validation failed: confirmPassword: Password & confirm Password does not match
+2024-04-21T02:27:48.764Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:28:34.309Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: email_1 dup key: { email: "nisal.nn24@gmail.com" }
+2024-04-21T02:29:38.356Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:30:01.016Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:30:12.571Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Jagath" }
+2024-04-21T02:30:57.470Z - CRITICAL: Error: Invalid email or password
+2024-04-21T02:38:47.950Z - CRITICAL: Error: message is not defined
+2024-04-21T02:38:56.430Z - CRITICAL: Error: message is not defined
+2024-04-21T02:39:18.956Z - CRITICAL: Error: message is not defined
+2024-04-21T02:46:52.110Z - CRITICAL: Error: Can't find /api/v1/auth/logout on the server!
+2024-04-21T02:46:59.117Z - CRITICAL: Error: Can't find /api/v1/auth/logout on the server!
+2024-04-21T02:48:20.007Z - CRITICAL: Error: Can't find /api/v1/auth/logout on the server!
+2024-04-21T02:48:52.910Z - CRITICAL: Error: Can't find /api/v1/auth/logout on the server!
+2024-04-21T02:49:39.750Z - CRITICAL: Error: Can't find /api/v1/auth/logout on the server!
+2024-04-21T02:55:03.768Z - CRITICAL: Error: Can't find /api/v1/auth/logout on the server!
+2024-04-21T05:23:13.439Z - CRITICAL: Error: Can't find /api/v1/auth/checkloginstatus on the server!
+2024-04-21T05:27:15.981Z - CRITICAL: Error: Can't find /api/v1/auth/checkloginstatus on the server!
+2024-04-21T05:37:21.572Z - CRITICAL: Error: You do not have permission to perform this action
+2024-04-21T05:42:43.853Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:42:43.865Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:44:10.659Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:44:10.670Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:46:08.074Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:46:13.797Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:46:13.805Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:47:03.057Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:47:07.364Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:47:07.370Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:47:23.415Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:47:23.424Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:47:43.269Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:47:43.276Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:48:09.066Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:48:12.529Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:48:12.539Z - CRITICAL: Error: You are not logged in! Please log in
+2024-04-21T05:48:34.091Z - CRITICAL: Error: jwt malformed
+2024-04-21T05:48:47.056Z - CRITICAL: Error: jwt malformed
+2024-04-21T05:59:44.069Z - CRITICAL: Error: Can't find /api/v1/auth/checkLogingStatus on the server!
+2024-04-21T05:59:44.074Z - CRITICAL: Error: Can't find /api/v1/auth/checkLogingStatus on the server!
+2024-04-21T06:00:00.092Z - CRITICAL: Error: Can't find /api/v1/auth/checkLogingStatus on the server!
+2024-04-21T06:00:00.096Z - CRITICAL: Error: Can't find /api/v1/auth/checkLogingStatus on the server!
+2024-04-21T06:00:05.546Z - CRITICAL: Error: Can't find /api/v1/auth/checkLogingStatus on the server!
+2024-04-21T06:00:05.551Z - CRITICAL: Error: Can't find /api/v1/auth/checkLogingStatus on the server!
+2024-04-21T06:00:13.325Z - CRITICAL: Error: Can't find /api/v1/auth/checkLogingStatus on the server!
+2024-04-21T06:00:13.330Z - CRITICAL: Error: Can't find /api/v1/auth/checkLogingStatus on the server!
+2024-04-21T06:00:13.334Z - CRITICAL: Error: Can't find /api/v1/auth/checkLogingStatus on the server!
+2024-04-21T06:00:13.339Z - CRITICAL: Error: Can't find /api/v1/auth/checkLogingStatus on the server!
+2024-04-21T06:11:55.931Z - CRITICAL: Error: invalid token
+2024-04-21T06:11:55.941Z - CRITICAL: Error: invalid token
+2024-04-21T06:12:10.311Z - CRITICAL: Error: invalid token
+2024-04-21T06:12:10.320Z - CRITICAL: Error: invalid token
+2024-04-21T06:12:54.947Z - CRITICAL: Error: invalid token
+2024-04-21T06:12:54.954Z - CRITICAL: Error: invalid token
+2024-04-21T06:32:49.842Z - CRITICAL: Error: User is logged in
+2024-04-21T06:38:54.655Z - CRITICAL: Error: invalid token
+2024-04-21T06:38:54.664Z - CRITICAL: Error: invalid token
+2024-04-21T06:38:54.671Z - CRITICAL: Error: invalid token
+2024-04-21T06:38:54.690Z - CRITICAL: Error: invalid token
+2024-04-21T06:40:26.703Z - CRITICAL: Error: Invalid email or password
+2024-04-21T06:41:36.558Z - CRITICAL: Error: Invalid email or password
+2024-04-21T06:41:41.899Z - CRITICAL: Error: Invalid email or password
+2024-04-21T06:44:16.217Z - CRITICAL: Error: jwt malformed
+2024-04-21T06:44:16.222Z - CRITICAL: Error: jwt malformed
+2024-04-21T06:45:57.707Z - CRITICAL: Error: invalid token
+2024-04-21T06:45:57.712Z - CRITICAL: Error: invalid token
+2024-04-21T06:45:57.717Z - CRITICAL: Error: invalid token
+2024-04-21T06:45:57.725Z - CRITICAL: Error: invalid token
+2024-04-21T06:46:05.623Z - CRITICAL: Error: invalid token
+2024-04-21T06:46:05.632Z - CRITICAL: Error: invalid token
+2024-04-21T06:46:05.687Z - CRITICAL: Error: invalid token
+2024-04-21T06:46:05.728Z - CRITICAL: Error: invalid token
+2024-04-21T06:48:33.129Z - CRITICAL: Error: invalid token
+2024-04-21T06:48:33.140Z - CRITICAL: Error: invalid token
+2024-04-21T06:48:33.147Z - CRITICAL: Error: invalid token
+2024-04-21T06:48:33.157Z - CRITICAL: Error: invalid token
+2024-04-21T06:49:45.090Z - CRITICAL: Error: invalid token
+2024-04-21T06:49:45.097Z - CRITICAL: Error: invalid token
+2024-04-21T06:49:49.372Z - CRITICAL: Error: invalid token
+2024-04-21T06:49:49.379Z - CRITICAL: Error: invalid token
+2024-04-21T06:49:49.384Z - CRITICAL: Error: invalid token
+2024-04-21T06:49:49.389Z - CRITICAL: Error: invalid token
+2024-04-21T06:53:52.760Z - CRITICAL: Error: jwt malformed
+2024-04-21T06:53:52.766Z - CRITICAL: Error: jwt malformed
+2024-04-21T06:53:55.213Z - CRITICAL: Error: jwt malformed
+2024-04-21T06:53:55.218Z - CRITICAL: Error: jwt malformed
+2024-04-21T07:06:57.529Z - CRITICAL: Error: jwt malformed
+2024-04-21T07:06:57.535Z - CRITICAL: Error: jwt malformed
+2024-04-21T07:28:55.487Z - CRITICAL: Error: Invalid email or password
+2024-04-21T07:58:28.021Z - CRITICAL: Error: jwt malformed
+2024-04-21T07:58:28.035Z - CRITICAL: Error: jwt malformed
+2024-04-21T07:58:35.108Z - CRITICAL: Error: jwt malformed
+2024-04-21T07:58:35.121Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:16:00.012Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:16:00.028Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:18:13.203Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:18:13.210Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:18:13.243Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:18:18.701Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:18:18.707Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:18:18.715Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:18:18.724Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:18:18.730Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:18:18.732Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:18:19.862Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:18:19.871Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:36:44.917Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:36:44.929Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:36:44.936Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:36:44.942Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:36:44.951Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:36:44.952Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:37:10.077Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:37:10.082Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:37:10.086Z - CRITICAL: Error: jwt malformed
+2024-04-21T08:38:37.666Z - CRITICAL: Error: Invalid email or password
+2024-04-21T08:54:02.207Z - CRITICAL: Error: invalid token
+2024-04-21T08:54:02.221Z - CRITICAL: Error: invalid token
+2024-04-21T08:54:02.216Z - CRITICAL: Error: invalid token
+2024-04-21T08:54:02.232Z - CRITICAL: Error: invalid token
+2024-04-21T08:54:02.250Z - CRITICAL: Error: invalid token
+2024-04-21T08:54:02.238Z - CRITICAL: Error: invalid token
+2024-04-21T08:54:09.032Z - CRITICAL: Error: invalid token
+2024-04-21T08:54:09.037Z - CRITICAL: Error: invalid token
+2024-04-21T08:54:09.043Z - CRITICAL: Error: invalid token
+2024-04-21T08:54:09.050Z - CRITICAL: Error: invalid token
+2024-04-21T08:54:09.059Z - CRITICAL: Error: invalid token
+2024-04-21T08:54:09.072Z - CRITICAL: Error: invalid token
+2024-04-21T09:16:06.514Z - CRITICAL: Error: jwt malformed
+2024-04-21T09:16:06.520Z - CRITICAL: Error: jwt malformed
+2024-04-21T09:20:40.040Z - CRITICAL: Error: Invalid email or password
+2024-04-21T09:48:56.730Z - CRITICAL: Error: invalid token
+2024-04-21T09:48:56.739Z - CRITICAL: Error: invalid token
+2024-04-21T09:48:56.767Z - CRITICAL: Error: invalid token
+2024-04-21T09:48:56.751Z - CRITICAL: Error: invalid token
+2024-04-21T09:48:56.758Z - CRITICAL: Error: invalid token
+2024-04-21T09:48:56.744Z - CRITICAL: Error: invalid token
+2024-04-21T09:49:02.581Z - CRITICAL: Error: invalid token
+2024-04-21T09:49:02.588Z - CRITICAL: Error: invalid token
+2024-04-21T09:49:02.593Z - CRITICAL: Error: invalid token
+2024-04-21T09:49:02.598Z - CRITICAL: Error: invalid token
+2024-04-21T09:49:02.607Z - CRITICAL: Error: invalid token
+2024-04-21T09:49:02.614Z - CRITICAL: Error: invalid token
+2024-04-21T09:49:22.226Z - CRITICAL: Error: Invalid email or password
+2024-04-21T09:49:53.999Z - CRITICAL: Error: invalid token
+2024-04-21T09:49:54.005Z - CRITICAL: Error: invalid token
+2024-04-21T09:49:54.013Z - CRITICAL: Error: invalid token
+2024-04-21T09:49:54.024Z - CRITICAL: Error: invalid token
+2024-04-21T09:49:54.036Z - CRITICAL: Error: invalid token
+2024-04-21T09:49:54.042Z - CRITICAL: Error: invalid token
+2024-04-21T09:50:23.066Z - CRITICAL: Error: invalid token
+2024-04-21T09:50:23.071Z - CRITICAL: Error: invalid token
+2024-04-21T09:50:23.076Z - CRITICAL: Error: invalid token
+2024-04-21T09:50:23.081Z - CRITICAL: Error: invalid token
+2024-04-21T09:50:23.089Z - CRITICAL: Error: invalid token
+2024-04-21T09:50:23.095Z - CRITICAL: Error: invalid token
+2024-04-21T09:50:23.104Z - CRITICAL: Error: invalid token
+2024-04-21T09:50:23.110Z - CRITICAL: Error: invalid token
+2024-04-21T09:50:23.116Z - CRITICAL: Error: invalid token
+2024-04-21T09:50:23.127Z - CRITICAL: Error: invalid token
+2024-04-21T09:50:23.140Z - CRITICAL: Error: invalid token
+2024-04-21T09:50:23.141Z - CRITICAL: Error: invalid token
+2024-04-21T10:01:33.436Z - CRITICAL: Error: invalid token
+2024-04-21T10:01:33.450Z - CRITICAL: Error: invalid token
+2024-04-21T10:01:33.445Z - CRITICAL: Error: invalid token
+2024-04-21T10:01:33.465Z - CRITICAL: Error: invalid token
+2024-04-21T10:01:33.458Z - CRITICAL: Error: invalid token
+2024-04-21T10:01:33.477Z - CRITICAL: Error: invalid token
+2024-04-21T10:03:09.836Z - CRITICAL: Error: invalid token
+2024-04-21T10:03:09.842Z - CRITICAL: Error: invalid token
+2024-04-21T10:03:09.850Z - CRITICAL: Error: invalid token
+2024-04-21T10:03:09.856Z - CRITICAL: Error: invalid token
+2024-04-21T10:03:09.867Z - CRITICAL: Error: invalid token
+2024-04-21T10:03:09.873Z - CRITICAL: Error: invalid token
+2024-04-21T10:03:33.102Z - CRITICAL: Error: invalid token
+2024-04-21T10:03:33.110Z - CRITICAL: Error: invalid token
+2024-04-23T04:27:01.185Z - CRITICAL: Error: Invalid email or password
+2024-04-25T10:49:31.259Z - CRITICAL: Error: Invalid email or password
+2024-04-25T10:51:26.238Z - CRITICAL: Error: invalid token
+2024-04-25T10:51:26.244Z - CRITICAL: Error: invalid token
+2024-04-25T10:51:26.263Z - CRITICAL: Error: invalid token
+2024-04-25T10:51:26.270Z - CRITICAL: Error: invalid token
+2024-04-25T10:51:50.514Z - CRITICAL: Error: invalid token
+2024-04-25T10:51:50.519Z - CRITICAL: Error: invalid token
+2024-04-25T10:51:58.460Z - CRITICAL: Error: invalid token
+2024-04-25T10:51:58.464Z - CRITICAL: Error: invalid token
+2024-04-25T10:51:58.504Z - CRITICAL: Error: invalid token
+2024-04-25T10:51:58.513Z - CRITICAL: Error: invalid token
+2024-04-25T10:52:07.055Z - CRITICAL: Error: invalid token
+2024-04-25T10:52:07.074Z - CRITICAL: Error: invalid token
+2024-04-25T10:52:07.082Z - CRITICAL: Error: invalid token
+2024-04-25T10:52:07.093Z - CRITICAL: Error: invalid token
+2024-04-25T10:52:07.087Z - CRITICAL: Error: invalid token
+2024-04-25T14:31:11.895Z - CRITICAL: Error: getaddrinfo ENOTFOUND ac-ezmwr2m-shard-00-00.8xnacty.mongodb.net
+2024-04-25T14:31:31.874Z - CRITICAL: Error: getaddrinfo ENOTFOUND ac-ezmwr2m-shard-00-00.8xnacty.mongodb.net
+2024-04-25T14:31:31.875Z - CRITICAL: Error: getaddrinfo ENOTFOUND ac-ezmwr2m-shard-00-00.8xnacty.mongodb.net
+2024-04-25T14:31:31.876Z - CRITICAL: Error: getaddrinfo ENOTFOUND ac-ezmwr2m-shard-00-00.8xnacty.mongodb.net
+2024-04-25T14:31:31.879Z - CRITICAL: Error: getaddrinfo ENOTFOUND ac-ezmwr2m-shard-00-00.8xnacty.mongodb.net
+2024-04-25T14:31:31.883Z - CRITICAL: Error: getaddrinfo ENOTFOUND ac-ezmwr2m-shard-00-00.8xnacty.mongodb.net
+2024-05-01T14:24:17.009Z - CRITICAL: Error: jwt expired
+2024-05-01T14:24:17.019Z - CRITICAL: Error: jwt expired
+2024-05-01T14:24:17.032Z - CRITICAL: Error: jwt expired
+2024-05-01T14:24:17.041Z - CRITICAL: Error: jwt expired
+2024-05-01T14:24:17.049Z - CRITICAL: Error: jwt expired
+2024-05-01T14:24:17.057Z - CRITICAL: Error: jwt expired
+2024-05-01T14:24:52.799Z - CRITICAL: Error: Can't find / on the server!
+2024-05-01T14:24:53.087Z - CRITICAL: Error: Can't find /favicon.ico on the server!
