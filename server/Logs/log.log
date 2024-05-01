@@ -439,3 +439,6 @@
 2024-05-01T14:24:17.057Z - CRITICAL: Error: jwt expired
 2024-05-01T14:24:52.799Z - CRITICAL: Error: Can't find / on the server!
 2024-05-01T14:24:53.087Z - CRITICAL: Error: Can't find /favicon.ico on the server!
+2024-05-01T16:39:33.985Z - CRITICAL: Error: Can't find / on the server!
+2024-05-01T16:39:53.864Z - CRITICAL: Error: Can't find /api/v1/auth/login on the server!
+2024-05-01T16:41:00.426Z - CRITICAL: Error: Invalid email or password

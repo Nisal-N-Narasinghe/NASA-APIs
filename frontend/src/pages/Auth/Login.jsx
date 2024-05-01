@@ -24,7 +24,10 @@ const Login = () => {
     e.preventDefault();
 
     try {
-      const response = await axios.post("/api/v1/auth/login", formData);
+      const response = await axios.post(
+        "https://nasa-apis-server.vercel.app/api/v1/auth/login",
+        formData
+      );
 
       console.log("Login successful:", response.data);
 
