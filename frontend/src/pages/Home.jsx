@@ -17,7 +17,7 @@ const Home = () => {
     fetch(
       `https://api.nasa.gov/EPIC/archive/natural/2019/05/30/png/epic_1b_20190530011359.png?api_key=${
         import.meta.env.VITE_NASA_API_KEY
-      }`
+      }`,
     )
       .then((response) => {
         if (response.ok) {
@@ -60,7 +60,7 @@ const Home = () => {
   }, []);
 
   // YouTube video ID
-  const videoId = "P9C25Un7xaM";
+  const videoId = "vytmBNhc9ig";
   return (
     <div className='flex justify-center items-center h-screen ' id='home'>
       <img
