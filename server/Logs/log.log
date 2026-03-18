@@ -444,3 +444,4 @@
 2024-05-01T16:41:00.426Z - CRITICAL: Error: Invalid email or password
 2024-05-01T16:43:42.400Z - CRITICAL: Error: Can't find / on the server!
 2024-05-01T16:43:45.703Z - CRITICAL: Error: Can't find / on the server!
+2026-03-18T06:58:31.517Z - CRITICAL: Error: E11000 duplicate key error collection: nasa-test-app.users index: name_1 dup key: { name: "Nisal Narasinghe" }

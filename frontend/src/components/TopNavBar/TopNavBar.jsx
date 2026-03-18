@@ -32,7 +32,7 @@ const TopNavBar = () => {
         </div>
       </Link>
       <div className='flex'></div>
-      <div className=' flex top-4 md:top-8 right-16 md:right-6 space-x-2 md:space-x-4'>
+      {/* <div className=' flex top-4 md:top-8 right-16 md:right-6 space-x-2 md:space-x-4 displa'>
         {!isLoggedIn && (
           <>
             <Link className='text-white' to='/login'>
@@ -63,7 +63,7 @@ const TopNavBar = () => {
             onClick={handleLogout}
           />
         )}
-      </div>
+      </div> */}
     </div>
   );
 };
